@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7259450,
       "digest": "sha256:490d5048f42b2438633e3d6f860878e2cd35eb19746b239d186b69f7c7b0d2cc",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-15T10:18:01Z",
       "updated_at": "2026-10-15T10:18:02Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.3/streamtop-linux-x86_64-1.5.3.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6809075,
       "digest": "sha256:f1bdee5e312e5bc97702558400f02241ff4e2a0b310909be062394572c97b2ea",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-15T10:18:01Z",
       "updated_at": "2026-10-15T10:18:02Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.3/streamtop-macos-x86_64-1.5.3.zip"
