@@ -48,12 +48,12 @@ Total: **25,933** lines of code across **89** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 2 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-20 | 16 | 2 | 0 | 2 | 0 | 123 |
-| 90d | 2026-07-21 | 16 | 2 | 0 | 2 | 0 | 134 |
-| last180d | 2026-04-22 | 16 | 2 | 0 | 2 | 0 | 134 |
-| 360d | 2025-10-24 | 16 | 2 | 0 | 2 | 0 | 134 |
-| last720d | 2024-10-29 | 16 | 2 | 0 | 2 | 0 | 137 |
+| 30d | 2026-09-20 | 2 | 2 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-21 | 16 | 2 | 0 | 2 | 0 | 123 |
+| 90d | 2026-07-22 | 16 | 2 | 0 | 2 | 0 | 134 |
+| last180d | 2026-04-23 | 16 | 2 | 0 | 2 | 0 | 134 |
+| 360d | 2025-10-25 | 16 | 2 | 0 | 2 | 0 | 134 |
+| last720d | 2024-10-30 | 16 | 2 | 0 | 2 | 0 | 137 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for streamtop lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:35:41Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:46:10Z._
