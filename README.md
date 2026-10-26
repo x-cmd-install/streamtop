@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI.
+Terminal monitor for live HLS, DASH, and IPTV streams. Wire probes, TR 101 290, SCTE-35, Prometheus and OpenTelemetry metrics. Rust CLI and TUI.
 
 [![x-cmd/install — streamtop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/streamtop.svg)](https://x-cmd.com/install/streamtop)
 
@@ -33,27 +33,27 @@ Total: **25,933** lines of code across **89** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.3` (2026-10-15)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 120 · **Forks**: 4 · **Open issues**: 2 · **Contributors**: 2
+- **Stars**: 121 · **Forks**: 4 · **Open issues**: 2 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 139
+- **Releases**: 16 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 141
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 2 | 0 | 0 | 0 | 10 |
-| last60d | 2026-08-26 | 16 | 2 | 0 | 2 | 0 | 31 |
-| 90d | 2026-07-27 | 16 | 2 | 0 | 2 | 0 | 136 |
-| last180d | 2026-04-28 | 16 | 2 | 0 | 2 | 0 | 136 |
-| 360d | 2025-10-30 | 16 | 2 | 0 | 2 | 0 | 136 |
-| last720d | 2024-11-04 | 16 | 2 | 0 | 2 | 0 | 139 |
+| 30d | 2026-09-26 | 1 | 2 | 0 | 0 | 0 | 12 |
+| last60d | 2026-08-27 | 14 | 2 | 0 | 2 | 0 | 33 |
+| 90d | 2026-07-28 | 16 | 2 | 0 | 2 | 0 | 138 |
+| last180d | 2026-04-29 | 16 | 2 | 0 | 2 | 0 | 138 |
+| 360d | 2025-10-31 | 16 | 2 | 0 | 2 | 0 | 138 |
+| last720d | 2024-11-05 | 16 | 2 | 0 | 2 | 0 | 141 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for streamtop lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:37:54Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:40:23Z._

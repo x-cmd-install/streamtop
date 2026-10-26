@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI.
+Terminal monitor for live HLS, DASH, and IPTV streams. Wire probes, TR 101 290, SCTE-35, Prometheus and OpenTelemetry metrics. Rust CLI and TUI.
 
 [![x-cmd/install — streamtop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/streamtop.svg?lang=zh)](https://x-cmd.com/install/streamtop)
 
@@ -33,27 +33,27 @@ x install streamtop
 ## 发布
 
 - **最新版本**: `v1.5.3` (2026-10-15)
-- **最近提交**: 2026-10-24
+- **最近提交**: 2026-10-25
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 120 · **Fork**: 4 · **开放 issue**: 2 · **贡献者**: 2
+- **Star**: 121 · **Fork**: 4 · **开放 issue**: 2 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 2 · **开放 PR**: 0 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 139
+- **发布数**: 16 · **已合并 PR**: 2 · **开放 PR**: 0 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 141
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 2 | 0 | 0 | 0 | 10 |
-| last60d | 2026-08-26 | 16 | 2 | 0 | 2 | 0 | 31 |
-| 90d | 2026-07-27 | 16 | 2 | 0 | 2 | 0 | 136 |
-| last180d | 2026-04-28 | 16 | 2 | 0 | 2 | 0 | 136 |
-| 360d | 2025-10-30 | 16 | 2 | 0 | 2 | 0 | 136 |
-| last720d | 2024-11-04 | 16 | 2 | 0 | 2 | 0 | 139 |
+| 30d | 2026-09-26 | 1 | 2 | 0 | 0 | 0 | 12 |
+| last60d | 2026-08-27 | 14 | 2 | 0 | 2 | 0 | 33 |
+| 90d | 2026-07-28 | 16 | 2 | 0 | 2 | 0 | 138 |
+| last180d | 2026-04-29 | 16 | 2 | 0 | 2 | 0 | 138 |
+| 360d | 2025-10-31 | 16 | 2 | 0 | 2 | 0 | 138 |
+| last720d | 2024-11-05 | 16 | 2 | 0 | 2 | 0 | 141 |
 
 ## Release 资产
 
@@ -78,4 +78,4 @@ streamtop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T05:37:54Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T05:40:25Z._
