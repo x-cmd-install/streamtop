@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 881,
       "digest": "sha256:203896b481a9982a4ec3b39be313e0ac9b2ef6bb3641b45d26a29f2439bfe735",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-28T23:14:45Z",
       "updated_at": "2026-10-28T23:14:45Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/SHA256SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6526498,
       "digest": "sha256:88d3d98430180fe12e964546eb8ee82bee8af1d5d83cd8c772e00e064c80c710",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-10-28T23:14:45Z",
       "updated_at": "2026-10-28T23:14:46Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7250783,
       "digest": "sha256:3a7918287421805752bdbb4b170f632b0c0a94d4fd9bdba846b774a9040929f9",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-10-28T23:14:45Z",
       "updated_at": "2026-10-28T23:14:46Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-linux-x86_64-1.5.4.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6540854,
       "digest": "sha256:1f56b1f0e61bf5cd7304c0ce7eea21c2bf55c29a43a2051ebc6e73e94537cd8b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-28T23:14:45Z",
       "updated_at": "2026-10-28T23:14:46Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-macos-aarch64-1.5.4.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6798234,
       "digest": "sha256:f4176cf2d34265b03fcd26231987c7c08348fa36a2fadec916bce312c2ba55d3",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-28T23:14:45Z",
       "updated_at": "2026-10-28T23:14:46Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-macos-x86_64-1.5.4.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5906557,
       "digest": "sha256:98d19096f3b98ffa6e13417ee226e0ab85b2855039d52d6718a6e81dda1d9732",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-28T23:14:46Z",
       "updated_at": "2026-10-28T23:14:46Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-windows-x86_64-1.5.4.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6778252,
       "digest": "sha256:8fb0f2a5c14c82deb954c6f47ef26780d078eb43c1935e94dde68767a1a3ca59",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-28T23:14:46Z",
       "updated_at": "2026-10-28T23:14:47Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-x86_64-apple-darwin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5892005,
       "digest": "sha256:73d1b706ae569ecd5de31fa327497f39e5b6ab07e1cc06c2d34dbeeb8d1d9359",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-28T23:14:46Z",
       "updated_at": "2026-10-28T23:14:47Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-x86_64-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 7236527,
       "digest": "sha256:17fa0e7d07f5c46b8bdba24c4a9d979755dd465c30505bdc3dea7825b6ddf2f1",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-28T23:14:46Z",
       "updated_at": "2026-10-28T23:14:47Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-x86_64-unknown-linux-gnu.tar.gz"
