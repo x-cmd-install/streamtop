@@ -33,27 +33,27 @@ Total: **25,961** lines of code across **89** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.4` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-30
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 122 · **Forks**: 4 · **Open issues**: 2 · **Contributors**: 2
+- **Stars**: 124 · **Forks**: 4 · **Open issues**: 2 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 152
+- **Releases**: 17 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 153
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 2 | 0 | 0 | 0 | 23 |
-| last60d | 2026-08-31 | 6 | 2 | 0 | 2 | 0 | 44 |
-| 90d | 2026-08-01 | 17 | 2 | 0 | 2 | 0 | 149 |
-| last180d | 2026-05-03 | 17 | 2 | 0 | 2 | 0 | 149 |
-| 360d | 2025-11-04 | 17 | 2 | 0 | 2 | 0 | 149 |
-| last720d | 2024-11-09 | 17 | 2 | 0 | 2 | 0 | 152 |
+| 30d | 2026-10-01 | 2 | 2 | 0 | 0 | 0 | 24 |
+| last60d | 2026-09-01 | 6 | 2 | 0 | 2 | 0 | 45 |
+| 90d | 2026-08-02 | 17 | 2 | 0 | 2 | 0 | 150 |
+| last180d | 2026-05-04 | 17 | 2 | 0 | 2 | 0 | 150 |
+| 360d | 2025-11-05 | 17 | 2 | 0 | 2 | 0 | 150 |
+| last720d | 2024-11-10 | 17 | 2 | 0 | 2 | 0 | 153 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for streamtop lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:45:12Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:42:56Z._
