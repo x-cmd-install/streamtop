@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7250783,
       "digest": "sha256:3a7918287421805752bdbb4b170f632b0c0a94d4fd9bdba846b774a9040929f9",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-28T23:14:45Z",
       "updated_at": "2026-10-28T23:14:46Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-linux-x86_64-1.5.4.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5906557,
       "digest": "sha256:98d19096f3b98ffa6e13417ee226e0ab85b2855039d52d6718a6e81dda1d9732",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-28T23:14:46Z",
       "updated_at": "2026-10-28T23:14:46Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.5.4/streamtop-windows-x86_64-1.5.4.zip"
