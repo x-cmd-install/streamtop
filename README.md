@@ -14,7 +14,7 @@ x install streamtop
 
 ## Code insight
 
-Total: **27,408** lines of code across **92** files in the top 5 languages.
+Total: **27,411** lines of code across **92** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,7 +33,7 @@ Total: **27,408** lines of code across **92** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.1` (2026-11-01)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-06
 - **Assets in release**: 15
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **27,408** lines of code across **92** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 186
+- **Releases**: 21 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 187
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 6 | 1 | 0 | 0 | 0 | 56 |
-| last60d | 2026-09-06 | 8 | 2 | 0 | 1 | 0 | 65 |
-| 90d | 2026-08-07 | 21 | 2 | 0 | 2 | 0 | 183 |
-| last180d | 2026-05-09 | 21 | 2 | 0 | 2 | 0 | 183 |
-| 360d | 2025-11-10 | 21 | 2 | 0 | 2 | 0 | 183 |
-| last720d | 2024-11-15 | 21 | 2 | 0 | 2 | 0 | 186 |
+| 30d | 2026-10-07 | 6 | 1 | 0 | 0 | 0 | 57 |
+| last60d | 2026-09-07 | 8 | 2 | 0 | 1 | 0 | 66 |
+| 90d | 2026-08-08 | 21 | 2 | 0 | 2 | 0 | 184 |
+| last180d | 2026-05-10 | 21 | 2 | 0 | 2 | 0 | 184 |
+| 360d | 2025-11-11 | 21 | 2 | 0 | 2 | 0 | 184 |
+| last720d | 2024-11-16 | 21 | 2 | 0 | 2 | 0 | 187 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for streamtop lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:51:57Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:55:42Z._
