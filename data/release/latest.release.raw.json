@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5567900,
       "digest": "sha256:ecc4262973de9982ab186edc15d822d490a3a319db16e02deea217d6c040aa51",
-      "download_count": 22,
+      "download_count": 27,
       "created_at": "2026-11-01T21:48:31Z",
       "updated_at": "2026-11-01T21:48:32Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.7.1/streamtop-windows-x86_64-1.7.1.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5555800,
       "digest": "sha256:ffbc271023016a67900e19ffbf222aa7b910b6f1938295b63b72ae2ca4f336f0",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-01T21:48:32Z",
       "updated_at": "2026-11-01T21:48:32Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.7.1/streamtop-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6827158,
       "digest": "sha256:ba15f109f57e687392360575ebe3afa3608182191339f19bd1a8c0bb30671cf8",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-01T21:48:32Z",
       "updated_at": "2026-11-01T21:48:32Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.7.1/streamtop-x86_64-unknown-linux-gnu.tar.gz"
