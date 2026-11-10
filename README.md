@@ -14,15 +14,15 @@ x install streamtop
 
 ## Code insight
 
-Total: **27,411** lines of code across **92** files in the top 5 languages.
+Total: **30,125** lines of code across **94** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 25,742 | 77 | 1,907 | 77 |
+| Rust | 28,456 | 80 | 2,077 | 79 |
 | Python | 442 | 4 | 60 | 3 |
 | PowerShell | 361 | 2 | 34 | 1 |
 | Sh | 344 | 14 | 42 | 2 |
-| Toml | 259 | 32 | 30 | 9 |
+| Toml | 259 | 46 | 31 | 9 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **27,411** lines of code across **92** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.1` (2026-11-01)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-10
 - **Assets in release**: 15
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **27,411** lines of code across **92** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 187
+- **Releases**: 21 · **Merged PRs**: 3 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 6 | 1 | 0 | 0 | 0 | 51 |
-| last60d | 2026-09-10 | 7 | 2 | 0 | 0 | 0 | 62 |
-| 90d | 2026-08-11 | 21 | 2 | 0 | 2 | 0 | 184 |
-| last180d | 2026-05-13 | 21 | 2 | 0 | 2 | 0 | 184 |
-| 360d | 2025-11-14 | 21 | 2 | 0 | 2 | 0 | 184 |
-| last720d | 2024-11-19 | 21 | 2 | 0 | 2 | 0 | 187 |
+| 30d | 2026-10-11 | 6 | 2 | 1 | 0 | 0 | 54 |
+| last60d | 2026-09-11 | 7 | 3 | 1 | 0 | 0 | 65 |
+| 90d | 2026-08-12 | 21 | 3 | 1 | 2 | 0 | 187 |
+| last180d | 2026-05-14 | 21 | 3 | 1 | 2 | 0 | 187 |
+| 360d | 2025-11-15 | 21 | 3 | 1 | 2 | 0 | 187 |
+| last720d | 2024-11-20 | 21 | 3 | 1 | 2 | 0 | 190 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for streamtop lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T10:09:23Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:30:32Z._
