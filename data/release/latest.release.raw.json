@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1454,
       "digest": "sha256:f9f448effde4169302622052704e622191bf85cedc4f8f0635018c7463698cb6",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-10T10:16:39Z",
       "updated_at": "2026-11-10T10:16:39Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.8.0/SHA256SUMS"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6973123,
       "digest": "sha256:98070ced97e3c2666c0f5a4ddef5804c0740c55f260f03ce7a8933f6694911b5",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-10T10:16:40Z",
       "updated_at": "2026-11-10T10:16:40Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.8.0/streamtop-linux-x86_64-1.8.0.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5670418,
       "digest": "sha256:c0a38c585b6b1db73877a09a46ab0e38d7a5ebaf63f39524482e8e4fcc16402c",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-10T10:16:41Z",
       "updated_at": "2026-11-10T10:16:41Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.8.0/streamtop-windows-x86_64-1.8.0.zip"
