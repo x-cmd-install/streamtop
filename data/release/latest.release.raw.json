@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6973123,
       "digest": "sha256:98070ced97e3c2666c0f5a4ddef5804c0740c55f260f03ce7a8933f6694911b5",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-10T10:16:40Z",
       "updated_at": "2026-11-10T10:16:40Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.8.0/streamtop-linux-x86_64-1.8.0.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6959999,
       "digest": "sha256:4cf390ca11bdff5aa69d0f5e83a3951abd21a91776ecbeec26e889b109e1477e",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-10T10:16:41Z",
       "updated_at": "2026-11-10T10:16:42Z",
       "browser_download_url": "https://github.com/Jorji49/streamtop/releases/download/v1.8.0/streamtop-x86_64-unknown-linux-gnu.tar.gz"
