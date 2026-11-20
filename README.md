@@ -14,7 +14,7 @@ x install streamtop
 
 ## Code insight
 
-Total: **30,287** lines of code across **96** files in the top 5 languages.
+Total: **30,289** lines of code across **96** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **30,287** lines of code across **96** files in the top 5 languages.
 | Python | 531 | 5 | 74 | 4 |
 | Sh | 417 | 16 | 55 | 3 |
 | PowerShell | 361 | 2 | 34 | 1 |
-| Toml | 259 | 46 | 31 | 9 |
+| Toml | 261 | 54 | 31 | 9 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **30,287** lines of code across **96** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.0` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-20
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 129 · **Forks**: 4 · **Open issues**: 2 · **Contributors**: 2
+- **Stars**: 130 · **Forks**: 4 · **Open issues**: 2 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 4 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 193
+- **Releases**: 22 · **Merged PRs**: 4 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 6 | 2 | 0 | 0 | 0 | 55 |
-| last60d | 2026-09-20 | 8 | 4 | 0 | 0 | 0 | 68 |
-| 90d | 2026-08-21 | 22 | 4 | 0 | 2 | 0 | 190 |
-| last180d | 2026-05-23 | 22 | 4 | 0 | 2 | 0 | 190 |
-| 360d | 2025-11-24 | 22 | 4 | 0 | 2 | 0 | 190 |
-| last720d | 2024-11-29 | 22 | 4 | 0 | 2 | 0 | 193 |
+| 30d | 2026-10-21 | 6 | 2 | 0 | 0 | 0 | 61 |
+| last60d | 2026-09-21 | 8 | 4 | 0 | 0 | 0 | 74 |
+| 90d | 2026-08-22 | 22 | 4 | 0 | 2 | 0 | 196 |
+| last180d | 2026-05-24 | 22 | 4 | 0 | 2 | 0 | 196 |
+| 360d | 2025-11-25 | 22 | 4 | 0 | 2 | 0 | 196 |
+| last720d | 2024-11-30 | 22 | 4 | 0 | 2 | 0 | 199 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for streamtop lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:04:45Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:47:39Z._
