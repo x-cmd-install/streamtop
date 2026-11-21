@@ -14,12 +14,12 @@ x install streamtop
 
 ## Code insight
 
-Total: **30,289** lines of code across **96** files in the top 5 languages.
+Total: **30,428** lines of code across **97** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 28,456 | 80 | 2,077 | 79 |
-| Python | 531 | 5 | 74 | 4 |
+| Python | 670 | 6 | 100 | 5 |
 | Sh | 417 | 16 | 55 | 3 |
 | PowerShell | 361 | 2 | 34 | 1 |
 | Toml | 261 | 54 | 31 | 9 |
@@ -42,18 +42,18 @@ Total: **30,289** lines of code across **96** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 4 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 199
+- **Releases**: 22 · **Merged PRs**: 4 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 200
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 6 | 2 | 0 | 0 | 0 | 61 |
-| last60d | 2026-09-21 | 8 | 4 | 0 | 0 | 0 | 74 |
-| 90d | 2026-08-22 | 22 | 4 | 0 | 2 | 0 | 196 |
-| last180d | 2026-05-24 | 22 | 4 | 0 | 2 | 0 | 196 |
-| 360d | 2025-11-25 | 22 | 4 | 0 | 2 | 0 | 196 |
-| last720d | 2024-11-30 | 22 | 4 | 0 | 2 | 0 | 199 |
+| 30d | 2026-10-22 | 6 | 2 | 0 | 0 | 0 | 62 |
+| last60d | 2026-09-22 | 8 | 4 | 0 | 0 | 0 | 75 |
+| 90d | 2026-08-23 | 22 | 4 | 0 | 2 | 0 | 197 |
+| last180d | 2026-05-25 | 22 | 4 | 0 | 2 | 0 | 197 |
+| 360d | 2025-11-26 | 22 | 4 | 0 | 2 | 0 | 197 |
+| last720d | 2024-12-01 | 22 | 4 | 0 | 2 | 0 | 200 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for streamtop lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:47:39Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:39:57Z._
